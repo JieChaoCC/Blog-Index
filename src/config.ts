@@ -1,24 +1,24 @@
 /** Website 分类配置 */
 const WEBSITE_SORTS: WebsiteSort[] = [
   {
-    title: "示例分类1",
+    title: "远程工具",
     sites: [
       {
-        title: "主标题",
-        url: "http://www.your-web-page.com/",
+        title: "在线desk（远程）",
+        url: "https://desk.hsslive.cn/#/remote",
         icon: "",
         color: "#0171CD",
       },
       {
-        title: "主标题",
-        description: "网站描述",
-        url: "http://www.your-web-page.com/",
+        title: "todesk远程",
+        description: "todesk远程",
+        url: "https://www.todesk.com/",
         icon: "",
       },
       {
-        title: "主标题",
-        description: "网站描述",
-        url: "http://www.your-web-page.com/",
+        title: "向日葵",
+        description: "向日葵远程",
+        url: "https://sunlogin.oray.com/",
         icon: "",
       },
     ],
