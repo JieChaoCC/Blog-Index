@@ -24,24 +24,24 @@ const WEBSITE_SORTS: WebsiteSort[] = [
     ],
   },
   {
-    title: "示例分类2",
+    title: "日常使用",
   },
   {
-    title: "示例分类3",
+    title: "技术分享",
   },
   {
-    title: "示例分类4",
+    title: "个人日常",
   },
   {
-    title: "示例分类5",
+    title: "日志分享",
   },
   {
     title: "友情链接",
     sites: [
       {
-        title: "EsunR Blog",
-        description: "EsunR 的博客",
-        url: "https://www.esunr.xyz",
+        title: "JieChao Blog",
+        description: "JieChao 的博客",
+        url: "https://www.891122.xyz",
         icon: "https://esunr-image-bed.oss-cn-beijing.aliyuncs.com/logo.jpg",
       },
     ],
